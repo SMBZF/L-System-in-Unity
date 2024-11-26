@@ -1,0 +1,4 @@
+repository "Lsystem@smbzf@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
