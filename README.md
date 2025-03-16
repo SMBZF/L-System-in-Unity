@@ -19,7 +19,7 @@ This is a **procedural tree generation project** using **L-Systems**, developed 
 - **Rendering**: Line-based procedural drawing  
 - **Project Type**: Personal Project  
 
-### My Contributions  
+## My Contributions  
 - **L-System Algorithm** – Implemented rule-based recursive tree generation  
 - **Custom UI System** – Designed and coded **sliders, buttons, and reset functionality**  
 - **Interactive Controls** – Allowed real-time parameter adjustments for **iterations, angles, lengths, and rotation**  
